@@ -1,0 +1,13 @@
+@layer utilities {
+    .content-auto {
+      content-visibility: auto;
+      background:dark(bg-slate-800);
+    }
+  }
+
+  body{
+    background: color(bg-pink-400);
+  }
+    #pricing{
+        display: none;
+}
